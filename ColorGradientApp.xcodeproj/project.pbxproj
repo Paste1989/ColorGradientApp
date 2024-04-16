@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B78C86402B6CD96F009E8F0A /* testAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C863F2B6CD96F009E8F0A /* testAppApp.swift */; };
+		B78C86402B6CD96F009E8F0A /* ColorGradientApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C863F2B6CD96F009E8F0A /* ColorGradientApp.swift */; };
 		B78C86422B6CD96F009E8F0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C86412B6CD96F009E8F0A /* ContentView.swift */; };
 		B78C86442B6CD970009E8F0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B78C86432B6CD970009E8F0A /* Assets.xcassets */; };
 		B78C86482B6CD970009E8F0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B78C86472B6CD970009E8F0A /* Preview Assets.xcassets */; };
-		B78C86522B6CD971009E8F0A /* testAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C86512B6CD971009E8F0A /* testAppTests.swift */; };
-		B78C865C2B6CD971009E8F0A /* testAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C865B2B6CD971009E8F0A /* testAppUITests.swift */; };
-		B78C865E2B6CD971009E8F0A /* testAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C865D2B6CD971009E8F0A /* testAppUITestsLaunchTests.swift */; };
+		B78C86522B6CD971009E8F0A /* ColorGradientAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C86512B6CD971009E8F0A /* ColorGradientAppTests.swift */; };
+		B78C865C2B6CD971009E8F0A /* ColorGradientAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C865B2B6CD971009E8F0A /* ColorGradientAppUITests.swift */; };
+		B78C865E2B6CD971009E8F0A /* ColorGradientAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B78C865D2B6CD971009E8F0A /* ColorGradientAppUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B78C863C2B6CD96F009E8F0A /* testApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B78C863F2B6CD96F009E8F0A /* testAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAppApp.swift; sourceTree = "<group>"; };
+		B78C863C2B6CD96F009E8F0A /* ColorGradientApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorGradientApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B78C863F2B6CD96F009E8F0A /* ColorGradientApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGradientApp.swift; sourceTree = "<group>"; };
 		B78C86412B6CD96F009E8F0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B78C86432B6CD970009E8F0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B78C86452B6CD970009E8F0A /* testApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = testApp.entitlements; sourceTree = "<group>"; };
+		B78C86452B6CD970009E8F0A /* ColorGradientApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ColorGradientApp.entitlements; sourceTree = "<group>"; };
 		B78C86472B6CD970009E8F0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		B78C864D2B6CD971009E8F0A /* testAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B78C86512B6CD971009E8F0A /* testAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAppTests.swift; sourceTree = "<group>"; };
-		B78C86572B6CD971009E8F0A /* testAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B78C865B2B6CD971009E8F0A /* testAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAppUITests.swift; sourceTree = "<group>"; };
-		B78C865D2B6CD971009E8F0A /* testAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B78C864D2B6CD971009E8F0A /* ColorGradientAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorGradientAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B78C86512B6CD971009E8F0A /* ColorGradientAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGradientAppTests.swift; sourceTree = "<group>"; };
+		B78C86572B6CD971009E8F0A /* ColorGradientAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorGradientAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B78C865B2B6CD971009E8F0A /* ColorGradientAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGradientAppUITests.swift; sourceTree = "<group>"; };
+		B78C865D2B6CD971009E8F0A /* ColorGradientAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGradientAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,9 +75,9 @@
 		B78C86332B6CD96F009E8F0A = {
 			isa = PBXGroup;
 			children = (
-				B78C863E2B6CD96F009E8F0A /* testApp */,
-				B78C86502B6CD971009E8F0A /* testAppTests */,
-				B78C865A2B6CD971009E8F0A /* testAppUITests */,
+				B78C863E2B6CD96F009E8F0A /* ColorGradientApp */,
+				B78C86502B6CD971009E8F0A /* ColorGradientAppTests */,
+				B78C865A2B6CD971009E8F0A /* ColorGradientAppUITests */,
 				B78C863D2B6CD96F009E8F0A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,23 +85,23 @@
 		B78C863D2B6CD96F009E8F0A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B78C863C2B6CD96F009E8F0A /* testApp.app */,
-				B78C864D2B6CD971009E8F0A /* testAppTests.xctest */,
-				B78C86572B6CD971009E8F0A /* testAppUITests.xctest */,
+				B78C863C2B6CD96F009E8F0A /* ColorGradientApp.app */,
+				B78C864D2B6CD971009E8F0A /* ColorGradientAppTests.xctest */,
+				B78C86572B6CD971009E8F0A /* ColorGradientAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B78C863E2B6CD96F009E8F0A /* testApp */ = {
+		B78C863E2B6CD96F009E8F0A /* ColorGradientApp */ = {
 			isa = PBXGroup;
 			children = (
-				B78C863F2B6CD96F009E8F0A /* testAppApp.swift */,
+				B78C863F2B6CD96F009E8F0A /* ColorGradientApp.swift */,
 				B78C86412B6CD96F009E8F0A /* ContentView.swift */,
 				B78C86432B6CD970009E8F0A /* Assets.xcassets */,
-				B78C86452B6CD970009E8F0A /* testApp.entitlements */,
+				B78C86452B6CD970009E8F0A /* ColorGradientApp.entitlements */,
 				B78C86462B6CD970009E8F0A /* Preview Content */,
 			);
-			path = testApp;
+			path = ColorGradientApp;
 			sourceTree = "<group>";
 		};
 		B78C86462B6CD970009E8F0A /* Preview Content */ = {
@@ -112,29 +112,29 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		B78C86502B6CD971009E8F0A /* testAppTests */ = {
+		B78C86502B6CD971009E8F0A /* ColorGradientAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				B78C86512B6CD971009E8F0A /* testAppTests.swift */,
+				B78C86512B6CD971009E8F0A /* ColorGradientAppTests.swift */,
 			);
-			path = testAppTests;
+			path = ColorGradientAppTests;
 			sourceTree = "<group>";
 		};
-		B78C865A2B6CD971009E8F0A /* testAppUITests */ = {
+		B78C865A2B6CD971009E8F0A /* ColorGradientAppUITests */ = {
 			isa = PBXGroup;
 			children = (
-				B78C865B2B6CD971009E8F0A /* testAppUITests.swift */,
-				B78C865D2B6CD971009E8F0A /* testAppUITestsLaunchTests.swift */,
+				B78C865B2B6CD971009E8F0A /* ColorGradientAppUITests.swift */,
+				B78C865D2B6CD971009E8F0A /* ColorGradientAppUITestsLaunchTests.swift */,
 			);
-			path = testAppUITests;
+			path = ColorGradientAppUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B78C863B2B6CD96F009E8F0A /* testApp */ = {
+		B78C863B2B6CD96F009E8F0A /* ColorGradientApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B78C86612B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "testApp" */;
+			buildConfigurationList = B78C86612B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "ColorGradientApp" */;
 			buildPhases = (
 				B78C86382B6CD96F009E8F0A /* Sources */,
 				B78C86392B6CD96F009E8F0A /* Frameworks */,
@@ -144,14 +144,14 @@
 			);
 			dependencies = (
 			);
-			name = testApp;
+			name = ColorGradientApp;
 			productName = testApp;
-			productReference = B78C863C2B6CD96F009E8F0A /* testApp.app */;
+			productReference = B78C863C2B6CD96F009E8F0A /* ColorGradientApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B78C864C2B6CD971009E8F0A /* testAppTests */ = {
+		B78C864C2B6CD971009E8F0A /* ColorGradientAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B78C86642B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "testAppTests" */;
+			buildConfigurationList = B78C86642B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "ColorGradientAppTests" */;
 			buildPhases = (
 				B78C86492B6CD971009E8F0A /* Sources */,
 				B78C864A2B6CD971009E8F0A /* Frameworks */,
@@ -162,14 +162,14 @@
 			dependencies = (
 				B78C864F2B6CD971009E8F0A /* PBXTargetDependency */,
 			);
-			name = testAppTests;
+			name = ColorGradientAppTests;
 			productName = testAppTests;
-			productReference = B78C864D2B6CD971009E8F0A /* testAppTests.xctest */;
+			productReference = B78C864D2B6CD971009E8F0A /* ColorGradientAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		B78C86562B6CD971009E8F0A /* testAppUITests */ = {
+		B78C86562B6CD971009E8F0A /* ColorGradientAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B78C86672B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "testAppUITests" */;
+			buildConfigurationList = B78C86672B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "ColorGradientAppUITests" */;
 			buildPhases = (
 				B78C86532B6CD971009E8F0A /* Sources */,
 				B78C86542B6CD971009E8F0A /* Frameworks */,
@@ -180,9 +180,9 @@
 			dependencies = (
 				B78C86592B6CD971009E8F0A /* PBXTargetDependency */,
 			);
-			name = testAppUITests;
+			name = ColorGradientAppUITests;
 			productName = testAppUITests;
-			productReference = B78C86572B6CD971009E8F0A /* testAppUITests.xctest */;
+			productReference = B78C86572B6CD971009E8F0A /* ColorGradientAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -208,7 +208,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B78C86372B6CD96F009E8F0A /* Build configuration list for PBXProject "testApp" */;
+			buildConfigurationList = B78C86372B6CD96F009E8F0A /* Build configuration list for PBXProject "ColorGradientApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -221,9 +221,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B78C863B2B6CD96F009E8F0A /* testApp */,
-				B78C864C2B6CD971009E8F0A /* testAppTests */,
-				B78C86562B6CD971009E8F0A /* testAppUITests */,
+				B78C863B2B6CD96F009E8F0A /* ColorGradientApp */,
+				B78C864C2B6CD971009E8F0A /* ColorGradientAppTests */,
+				B78C86562B6CD971009E8F0A /* ColorGradientAppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B78C86422B6CD96F009E8F0A /* ContentView.swift in Sources */,
-				B78C86402B6CD96F009E8F0A /* testAppApp.swift in Sources */,
+				B78C86402B6CD96F009E8F0A /* ColorGradientApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B78C86522B6CD971009E8F0A /* testAppTests.swift in Sources */,
+				B78C86522B6CD971009E8F0A /* ColorGradientAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,8 +276,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B78C865E2B6CD971009E8F0A /* testAppUITestsLaunchTests.swift in Sources */,
-				B78C865C2B6CD971009E8F0A /* testAppUITests.swift in Sources */,
+				B78C865E2B6CD971009E8F0A /* ColorGradientAppUITestsLaunchTests.swift in Sources */,
+				B78C865C2B6CD971009E8F0A /* ColorGradientAppUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		B78C864F2B6CD971009E8F0A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B78C863B2B6CD96F009E8F0A /* testApp */;
+			target = B78C863B2B6CD96F009E8F0A /* ColorGradientApp */;
 			targetProxy = B78C864E2B6CD971009E8F0A /* PBXContainerItemProxy */;
 		};
 		B78C86592B6CD971009E8F0A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B78C863B2B6CD96F009E8F0A /* testApp */;
+			target = B78C863B2B6CD96F009E8F0A /* ColorGradientApp */;
 			targetProxy = B78C86582B6CD971009E8F0A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -416,10 +416,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = testApp/testApp.entitlements;
+				CODE_SIGN_ENTITLEMENTS = ColorGradientApp/ColorGradientApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"testApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ColorGradientApp/Preview Content\"";
 				DEVELOPMENT_TEAM = QHG34765G4;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -439,7 +439,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.testApp.testApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ColorGradientApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -454,10 +454,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = testApp/testApp.entitlements;
+				CODE_SIGN_ENTITLEMENTS = ColorGradientApp/ColorGradientApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"testApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ColorGradientApp/Preview Content\"";
 				DEVELOPMENT_TEAM = QHG34765G4;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -477,7 +477,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.testApp.testApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ColorGradientApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -499,14 +499,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.testApp.testAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ColorGradientApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/testApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorGradientApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ColorGradientApp";
 			};
 			name = Debug;
 		};
@@ -522,14 +522,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.testApp.testAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ColorGradientApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/testApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ColorGradientApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ColorGradientApp";
 			};
 			name = Release;
 		};
@@ -544,7 +544,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.testApp.testAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ColorGradientApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -566,7 +566,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.testApp.testAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ColorGradientApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -580,7 +580,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B78C86372B6CD96F009E8F0A /* Build configuration list for PBXProject "testApp" */ = {
+		B78C86372B6CD96F009E8F0A /* Build configuration list for PBXProject "ColorGradientApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B78C865F2B6CD971009E8F0A /* Debug */,
@@ -589,7 +589,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B78C86612B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "testApp" */ = {
+		B78C86612B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "ColorGradientApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B78C86622B6CD971009E8F0A /* Debug */,
@@ -598,7 +598,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B78C86642B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "testAppTests" */ = {
+		B78C86642B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "ColorGradientAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B78C86652B6CD971009E8F0A /* Debug */,
@@ -607,7 +607,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B78C86672B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "testAppUITests" */ = {
+		B78C86672B6CD971009E8F0A /* Build configuration list for PBXNativeTarget "ColorGradientAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B78C86682B6CD971009E8F0A /* Debug */,
